@@ -1,0 +1,37 @@
+{
+    "name": "jason-vscode-theme",
+    "displayName": "Jason VSCode Theme",
+    "description": "Jason's custom VSCode theme. It is inspired by One Monokai and VSCode Dark+, and it is designed to be a minimalistic dark theme.",
+    "publisher": "jasonli0616",
+    "author": {
+        "name": "Jason Li",
+        "url": "https://jasonli0616.dev"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jasonli0616/jason-vscode-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jasonli0616/jason-vscode-theme/issues"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Jason VSCode Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jason VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jason VSCode Theme-color-theme.json"
+            }
+        ]
+    }
+}
