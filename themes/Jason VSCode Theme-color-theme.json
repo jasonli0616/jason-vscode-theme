@@ -1,8 +1,6 @@
 {
-    "name": "Jason VSCode Theme",
-    "type": "dark",
     "colors": {
-        "activityBar.background": "#16181d",
+        "activityBar.background": "#121316",
         "activityBar.foreground": "#D7DAE0",
         "activityBarBadge.background": "#528bff",
         "activityBarBadge.foreground": "#F8FAFD",
@@ -10,20 +8,20 @@
         "diffEditor.insertedTextBackground": "#00809B33",
         "dropdown.background": "#1d1f23",
         "dropdown.border": "#181A1F",
-        "editor.background": "#16181d",
+        "editor.background": "#14151a",
         "editor.findMatchBackground": "#42557B",
         "editor.findMatchHighlightBackground": "#314365",
         "editor.lineHighlightBackground": "#20232b",
         "editor.selectionBackground": "#323847",
         "editorCursor.foreground": "#f8f8f0",
         "editorError.foreground": "#c24038",
-        "editorGroup.emptyBackground": "#181A1F",
         "editorGroup.border": "#181A1F",
-        "editorGroupHeader.tabsBackground": "#21252B",
-        "editorIndentGuide.background": "#3B4048",
+        "editorGroup.emptyBackground": "#181A1F",
+        "editorGroupHeader.tabsBackground": "#121316",
         "editorHoverWidget.background": "#21252B",
         "editorHoverWidget.border": "#181A1F",
-        "editorLineNumber.foreground": "#495162",
+        "editorIndentGuide.background": "#3B4048",
+        "editorLineNumber.foreground": "#7a86a0",
         "editorRuler.foreground": "#484848",
         "editorSuggestWidget.background": "#21252B",
         "editorSuggestWidget.border": "#181A1F",
@@ -43,40 +41,42 @@
         "scrollbarSlider.activeBackground": "#747D9180",
         "scrollbarSlider.background": "#4E566680",
         "scrollbarSlider.hoverBackground": "#5A637580",
-        "sideBar.background": "#191d22",
-        "sideBarSectionHeader.background": "#14171b",
+        "sideBar.background": "#18191d",
+        "sideBarSectionHeader.background": "#121316",
+        "sideBarSectionHeader.foreground": "#9da5b4",
         "statusBar.background": "#0a0d13",
         "statusBar.border": "#24272e",
-        "statusBar.foreground": "#9da5b4",
-        "statusBarItem.hoverBackground": "#2c313a",
-        "statusBar.noFolderBackground": "#21252B",
         "statusBar.debuggingBackground": "#21252B",
-        "tab.activeBackground": "#0a0d13",
-        "tab.hoverBackground": "#22282e",
+        "statusBar.foreground": "#9da5b4",
+        "statusBar.noFolderBackground": "#21252B",
+        "statusBarItem.hoverBackground": "#2c313a",
+        "tab.activeBackground": "#313641",
         "tab.border": "#24272e",
-        "tab.inactiveBackground": "#191d22",
-        "terminal.foreground": "#abb2bf",
+        "tab.hoverBackground": "#22282e",
+        "tab.inactiveBackground": "#1a1c22",
         "terminal.ansiBlack": "#2d3139",
         "terminal.ansiBlue": "#528bff",
-        "terminal.ansiGreen": "#98c379",
-        "terminal.ansiYellow": "#e5c07b",
-        "terminal.ansiCyan": "#56b6c2",
-        "terminal.ansiMagenta": "#c678dd",
-        "terminal.ansiRed": "#e06c75",
-        "terminal.ansiWhite": "#d7dae0",
         "terminal.ansiBrightBlack": "#7f848e",
         "terminal.ansiBrightBlue": "#528bff",
-        "terminal.ansiBrightGreen": "#98c379",
-        "terminal.ansiBrightYellow": "#e5c07b",
         "terminal.ansiBrightCyan": "#56b6c2",
+        "terminal.ansiBrightGreen": "#98c379",
         "terminal.ansiBrightMagenta": "#7e0097",
         "terminal.ansiBrightRed": "#f44747",
         "terminal.ansiBrightWhite": "#d7dae0",
-        "titleBar.activeBackground": "#24282e",
+        "terminal.ansiBrightYellow": "#e5c07b",
+        "terminal.ansiCyan": "#56b6c2",
+        "terminal.ansiGreen": "#98c379",
+        "terminal.ansiMagenta": "#c678dd",
+        "terminal.ansiRed": "#e06c75",
+        "terminal.ansiWhite": "#d7dae0",
+        "terminal.ansiYellow": "#e5c07b",
+        "terminal.foreground": "#abb2bf",
+        "titleBar.activeBackground": "#121316",
         "titleBar.activeForeground": "#9da5b4",
-        "titleBar.inactiveBackground": "#1d2025",
+        "titleBar.inactiveBackground": "#121316",
         "titleBar.inactiveForeground": "#6B717D"
     },
+    "name": "Jason VSCode Theme",
     "tokenColors": [
         {
             "name": "Comment",
@@ -254,7 +254,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#53ee94cc"
+                "foreground": "#6fcbce"
             }
         },
         {
@@ -547,8 +547,8 @@
             "name": "Markup: Separator",
             "scope": "meta.separator.markdown",
             "settings": {
-                "foreground": "#c678dd",
-                "fontStyle": "bold"
+                "fontStyle": "bold",
+                "foreground": "#c678dd"
             }
         },
         {
@@ -569,5 +569,6 @@
                 "foreground": "#ffffff"
             }
         }
-    ]
+    ],
+    "type": "dark"
 }
