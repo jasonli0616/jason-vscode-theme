@@ -2,7 +2,7 @@
 
 All notable changes to the "jason-vscode-theme" extension will be documented in this file.
 
-## Version 0.0.2
+## Version 0.0.2 & 0.0.3
 - Make colours darker & more consistent/minimalistic
 - Customize more colours of VSCode
 
