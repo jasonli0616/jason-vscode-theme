@@ -1,4 +1,6 @@
 {
+    "name": "Jason VSCode Theme",
+    "type": "dark",
     "colors": {
         "activityBar.background": "#121316",
         "activityBar.foreground": "#D7DAE0",
@@ -17,7 +19,7 @@
         "editorError.foreground": "#c24038",
         "editorGroup.border": "#181A1F",
         "editorGroup.emptyBackground": "#181A1F",
-        "editorGroupHeader.tabsBackground": "#121316",
+        "editorGroupHeader.tabsBackground": "#18191d",
         "editorHoverWidget.background": "#21252B",
         "editorHoverWidget.border": "#181A1F",
         "editorIndentGuide.background": "#3B4048",
@@ -50,10 +52,9 @@
         "statusBar.foreground": "#9da5b4",
         "statusBar.noFolderBackground": "#21252B",
         "statusBarItem.hoverBackground": "#2c313a",
-        "tab.activeBackground": "#313641",
         "tab.border": "#24272e",
         "tab.hoverBackground": "#22282e",
-        "tab.inactiveBackground": "#1a1c22",
+        "tab.inactiveBackground": "#18191d",
         "terminal.ansiBlack": "#2d3139",
         "terminal.ansiBlue": "#528bff",
         "terminal.ansiBrightBlack": "#7f848e",
@@ -76,7 +77,6 @@
         "titleBar.inactiveBackground": "#121316",
         "titleBar.inactiveForeground": "#6B717D"
     },
-    "name": "Jason VSCode Theme",
     "tokenColors": [
         {
             "name": "Comment",
@@ -569,6 +569,5 @@
                 "foreground": "#ffffff"
             }
         }
-    ],
-    "type": "dark"
+    ]
 }
