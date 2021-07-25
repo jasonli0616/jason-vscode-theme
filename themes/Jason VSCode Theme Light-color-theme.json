@@ -1,6 +1,6 @@
 {
-    "name": "Jason VSCode Theme",
-    "type": "dark",
+    "name": "Jason VSCode Theme - Light",
+    "type": "light",
     "colors": {
         "activityBar.background": "#121316",
         "activityBar.foreground": "#D7DAE0",
@@ -8,53 +8,33 @@
         "activityBarBadge.foreground": "#F8FAFD",
         "button.background": "#528bff",
         "diffEditor.insertedTextBackground": "#00809B33",
-        "dropdown.background": "#1d1f23",
-        "dropdown.border": "#181A1F",
-        "editor.background": "#14151a",
-        "editor.findMatchBackground": "#42557B",
-        "editor.findMatchHighlightBackground": "#314365",
-        "editor.lineHighlightBackground": "#20232b",
-        "editor.selectionBackground": "#323847",
-        "editorCursor.foreground": "#f8f8f0",
-        "editorError.foreground": "#c24038",
-        "editorGroup.border": "#181A1F",
-        "editorGroup.emptyBackground": "#181A1F",
-        "editorGroupHeader.tabsBackground": "#18191d",
-        "editorHoverWidget.background": "#21252B",
-        "editorHoverWidget.border": "#181A1F",
-        "editorIndentGuide.background": "#3B4048",
-        "editorLineNumber.foreground": "#7a86a0",
-        "editorRuler.foreground": "#484848",
-        "editorSuggestWidget.background": "#21252B",
-        "editorSuggestWidget.border": "#181A1F",
-        "editorSuggestWidget.selectedBackground": "#2c313a",
-        "editorUnnecessaryCode.opacity": "#000000c0",
-        "editorWhitespace.foreground": "#484a50",
-        "editorWidget.background": "#21252B",
-        "input.background": "#1d1f23",
-        "list.activeSelectionBackground": "#2c313a",
-        "list.activeSelectionForeground": "#d7dae0",
-        "list.focusBackground": "#383E4A",
+        "editor.background": "#f4f6ff",
+        "editor.foreground": "#333333",
+        "editor.lineHighlightBackground": "#e3e9ff",
+        "editor.selectionBackground": "#d7dfff",
+        "editorGroupHeader.tabsBackground": "#e9eeff",
+        "editorLineNumber.foreground": "#b9caee",
+        "editorSuggestWidget.focusHighlightForeground": "#252525",
+        "editorSuggestWidget.highlightForeground": "#252525",
+        "editorWidget.background": "#eaeeff",
+        "list.activeSelectionBackground": "#c0cfe9",
+        "list.activeSelectionForeground": "#333333",
+        "list.activeSelectionIconForeground": "#fff",
+        "list.focusBackground": "#a1b4d6",
         "list.highlightForeground": "#C5C5C5",
-        "list.hoverBackground": "#22282e",
-        "list.inactiveSelectionBackground": "#2c313a",
-        "list.inactiveSelectionForeground": "#d7dae0",
-        "notifications.background": "#21252b",
-        "scrollbarSlider.activeBackground": "#747D9180",
-        "scrollbarSlider.background": "#4E566680",
-        "scrollbarSlider.hoverBackground": "#5A637580",
-        "sideBar.background": "#18191d",
-        "sideBarSectionHeader.background": "#121316",
-        "sideBarSectionHeader.foreground": "#9da5b4",
+        "list.hoverBackground": "#dde5ff",
+        "list.inactiveSelectionBackground": "#cfdaff",
+        "sideBar.background": "#e9eeff",
+        "sideBarSectionHeader.background": "#becdff",
+        "sideBarSectionHeader.foreground": "#121316",
         "statusBar.background": "#0a0d13",
         "statusBar.border": "#24272e",
         "statusBar.debuggingBackground": "#21252B",
         "statusBar.foreground": "#9da5b4",
         "statusBar.noFolderBackground": "#21252B",
         "statusBarItem.hoverBackground": "#2c313a",
-        "tab.border": "#24272e",
-        "tab.hoverBackground": "#22282e",
-        "tab.inactiveBackground": "#18191d",
+        "tab.hoverBackground": "#dde5ff",
+        "tab.inactiveBackground": "#eaeeff",
         "terminal.ansiBlack": "#2d3139",
         "terminal.ansiBlue": "#528bff",
         "terminal.ansiBrightBlack": "#7f848e",
@@ -96,7 +76,7 @@
                 "string.template"
             ],
             "settings": {
-                "foreground": "#CE9178"
+                "foreground": "#ff7300"
             }
         },
         {
@@ -148,14 +128,14 @@
                 "constant.other"
             ],
             "settings": {
-                "foreground": "#56b6c2"
+                "foreground": "#448e97"
             }
         },
         {
             "name": "Language Variable",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#e06c75"
+                "foreground": "#ff2626"
             }
         },
         {
@@ -166,28 +146,28 @@
                 "keyword.operator.constructor"
             ],
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#4092d4"
             }
         },
         {
             "name": "Keyword Operator",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#569cd6"
+                "foreground": "#4092d4"
             }
         },
         {
             "name": "Storage",
             "scope": "storage",
             "settings": {
-                "foreground": "#e06c75"
+                "foreground": "#ff2626"
             }
         },
         {
             "name": "Types",
             "scope": "storage.type",
             "settings": {
-                "foreground": "#56b6c2"
+                "foreground": "#448e97"
             }
         },
         {
@@ -200,7 +180,7 @@
                 "support.class"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#287fc7"
             }
         },
         {
@@ -216,7 +196,7 @@
                 "variable.readwrite.other.block"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#287fc7"
             }
         },
         {
@@ -227,7 +207,7 @@
                 "variable.other.block"
             ],
             "settings": {
-                "foreground": "#abb2bf"
+                "foreground": "#525455"
             }
         },
         {
@@ -254,7 +234,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#6fcbce"
+                "foreground": "#24a4a8"
             }
         },
         {
@@ -266,7 +246,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#77cdfc"
+                "foreground": "#67caff"
             }
         },
         {
