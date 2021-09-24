@@ -50,7 +50,7 @@
         "terminal.ansiRed": "#e06c75",
         "terminal.ansiWhite": "#d7dae0",
         "terminal.ansiYellow": "#e5c07b",
-        "terminal.foreground": "#abb2bf",
+        "terminal.foreground": "#56595f",
         "titleBar.activeBackground": "#c9d5fd",
         "titleBar.inactiveBackground": "#d5dfff",
     },
