@@ -7,9 +7,9 @@
         "name": "Jason Li",
         "url": "https://jasonli0616.dev"
     },
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
-        "vscode": "^1.58.0"
+        "vscode": "^1.50.0"
     },
     "repository": {
         "type": "git",

@@ -2,6 +2,9 @@
 
 All notable changes to the "jason-vscode-theme" extension will be documented in this file.
 
+## Version 0.0.6
+- Add support for VSCode version 1.50+
+
 ## Version 0.0.5
 - Make light theme terminal text darker and more readable
 
