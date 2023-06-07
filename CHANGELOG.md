@@ -2,6 +2,9 @@
 
 All notable changes to the "jason-vscode-theme" extension will be documented in this file.
 
+## Version 1.0.0
+- Final release, now archived (will no longer receive updates)
+
 ## Version 0.0.6
 - Add support for VSCode version 1.50+
 

@@ -1,6 +1,8 @@
 # Jason VSCode Theme
 
-This is a minimalistic VSCode theme that looks good, and doesn't distract you from your code. It is now available in dark, light, and even lighter for the people that like to burn their eyes.
+My personal theme.
+
+It is now archived (will receive no more updates). I now use [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme).
 
 [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=jasonli0616.jason-vscode-theme)\
 [GitHub Repo](https://github.com/jasonli0616/jason-vscode-theme)
